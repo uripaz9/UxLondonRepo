@@ -1,0 +1,24 @@
+{"message":"Server starting at /Users/urip/Documents/Other/UX London/website/UxLondonRepo","level":"info","timestamp":"2019-07-13T20:19:18.938Z"}
+{"message":"Watching for file changes at [src]","level":"verbose","timestamp":"2019-07-13T20:19:18.943Z"}
+{"message":"Server listening at editor port [5000], admin port [3000]","level":"info","timestamp":"2019-07-13T20:19:18.996Z"}
+{"message":"Admin connected","level":"verbose","timestamp":"2019-07-13T20:19:19.012Z"}
+{"message":"Socket event GET_STATUS received","level":"info","timestamp":"2019-07-13T20:19:19.032Z"}
+{"message":"opening editor for [https://www.wix.com/editor/00af0ee6-e111-4d97-ac9a-1383f1679b97?petri_ovr=specs.ExcludeSiteFromSsr=true&corvidSessionId=7e85926e-15f2-40c1-9bde-c2aab7e6e884&localServerPort=5000&x-wix-bi-context=eyJidWlsZGVyRW52IjoibG9jYWwiLCJpc0hlYWRsZXNzIjpmYWxzZX0=]","level":"info","timestamp":"2019-07-13T20:19:19.034Z"}
+{"message":"Accepted origin [https://editor.wix.com]","level":"warn","timestamp":"2019-07-13T20:19:25.114Z"}
+{"message":"Editor connected","level":"verbose","timestamp":"2019-07-13T20:19:25.115Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2019-07-13T20:19:25.151Z"}
+{"message":"Socket event GET_DOCUMENT received","level":"info","timestamp":"2019-07-13T20:19:25.170Z"}
+{"message":"Site document requested","level":"verbose","timestamp":"2019-07-13T20:19:25.171Z"}
+{"message":"Socket event IS_CLONE_MODE received","level":"info","timestamp":"2019-07-13T20:19:27.311Z"}
+{"message":"Socket event GET_CODE received","level":"info","timestamp":"2019-07-13T20:19:27.488Z"}
+{"message":"code files requested","level":"verbose","timestamp":"2019-07-13T20:19:27.489Z"}
+{"message":"Socket event UPDATE_DOCUMENT received","level":"info","timestamp":"2019-07-13T20:19:29.855Z"}
+{"message":"Backing up site","level":"info","timestamp":"2019-07-13T20:19:29.856Z"}
+{"message":"Socket event UPDATE_CODE received","level":"info","timestamp":"2019-07-13T20:19:29.857Z"}
+{"message":"Updating local code files","level":"verbose","timestamp":"2019-07-13T20:19:29.858Z"}
+{"message":"Updating local code files done","level":"verbose","timestamp":"2019-07-13T20:19:29.869Z"}
+{"message":"Backing up site complete","level":"info","timestamp":"2019-07-13T20:19:29.905Z"}
+{"message":"Updating local site document","level":"verbose","timestamp":"2019-07-13T20:19:29.905Z"}
+{"message":"Updating local site document done","level":"verbose","timestamp":"2019-07-13T20:19:29.922Z"}
+{"message":"Deleting backup","level":"info","timestamp":"2019-07-13T20:19:29.923Z"}
+{"message":"Deleting backup complete","level":"info","timestamp":"2019-07-13T20:19:29.928Z"}
